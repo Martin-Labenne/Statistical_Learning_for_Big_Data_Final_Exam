@@ -1,0 +1,5 @@
+*.docx
+*.zip
+*.html
+.ipynb_checkpoints/
+RR_RMDA.pdf
