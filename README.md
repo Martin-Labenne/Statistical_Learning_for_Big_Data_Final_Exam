@@ -1,4 +1,4 @@
-# Technical interview proposed by Jolimoi
+# Statistical Learning for Big Data : my solution to the Final Exam
 The only purpose of this repository is to show what I can produce on basic Machine Learning tasks with numerical Data.  
 I managed to get a 4 / 5 at this exam.
 
