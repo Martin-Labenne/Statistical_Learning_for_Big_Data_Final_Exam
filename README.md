@@ -10,7 +10,7 @@ I use `pandas`, `NumPy` and `scikit-learn`
 
 ## Some recomandations
 There is 3 tasks, each one has a dedicated written report. The notebook contains the code of each task one after the other.   
-I totaly recommend that you start your reading with the [reports](/Assignement) then dig into the code if you want to.  
+I totaly recommend that you start your reading with the [reports](/Assignement) then dig into the [code](Code.ipynb) if you want to.  
   
 Enjoy your reading.
 
